@@ -1,2 +1,2 @@
 pygamex
-math
+python-math
